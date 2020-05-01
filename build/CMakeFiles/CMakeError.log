@@ -1,0 +1,20 @@
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /Users/henrygilbert/.espressif/tools/xtensa-esp32-elf/esp-2020r1-8.2.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-gcc 
+Build flags: -mlongcalls;-Wno-frame-address
+Id flags:  
+
+The output was:
+1
+/Users/henrygilbert/.espressif/tools/xtensa-esp32-elf/esp-2020r1-8.2.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/8.2.0/../../../../xtensa-esp32-elf/bin/ld: cannot open output file a.out: No such file or directory
+collect2: error: ld returned 1 exit status
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" did not produce an executable in "/Users/henrygilbert/esp/hello_world/build/CMakeFiles/3.17.2/CompilerIdC".
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /Users/henrygilbert/esp/hello_world/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/local/bin/ninja cmTC_856d0 && ninja: error: loading 'build.ninja': No such file or directory
+
+
+
