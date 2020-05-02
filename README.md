@@ -2,7 +2,7 @@
 
 Allows user to select between 5 light patterns on WS2812B LED strip.
 
-### Lab Elements Encorporates:
+### Lab Elements Encorporated:
   1) GPIO's. The button is connected to a GPIO with an internal PULLUP resistor. When the button is pressed, the GPIO is connected to GND which triggers a negative-edge interrupt.
   
   2) Timers. A timer divides the main clock to count to 0.1 seconds to determine when to send the next string of commands to the LEDs. 
