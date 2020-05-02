@@ -1,6 +1,8 @@
 # LED driver
 
-Allows user to select between 5 light patterns on WS2812B LED strip.
+Allows a user to use a button to switch between 5 light patterns on a WS2812B LED strip.
+
+This code requires the ESP-IDF libraries. 
 
 ### Lab Elements Encorporated:
   1) GPIO's. The button is connected to a GPIO with an internal PULLUP resistor. When the button is pressed, the GPIO is connected to GND which triggers a negative-edge interrupt.
