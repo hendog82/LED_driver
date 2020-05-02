@@ -1,8 +1,7 @@
 /*
  * button_if.h
  *
- *  Created on: May 1, 2020
- *      Author: henrygilbert
+ *      Author: hendog82
  */
 
 #ifndef MAIN_BUTTON_IF_H_

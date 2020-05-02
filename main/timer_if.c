@@ -1,8 +1,7 @@
 /*
  * timer_if.c
  *
- *  Created on: May 1, 2020
- *      Author: henrygilbert
+ *      Author: hendog82
  */
 
 #include <stdio.h>

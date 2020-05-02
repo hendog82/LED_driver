@@ -1,8 +1,7 @@
 /*
  * timer_if.h
  *
- *  Created on: May 1, 2020
- *      Author: henrygilbert
+ *      Author: hendog82
  */
 
 #ifndef MAIN_TIMER_IF_H_
